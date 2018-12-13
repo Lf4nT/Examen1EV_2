@@ -13,8 +13,8 @@ public class Ejercicio2 {
 	 *  
 	 */
 	
-	public static ...
-	
+	public static ... 
+	/*YA EXISTE UN METODO DE LA CLASE MAIN QUE HACE ESTO*/
 	
 	/*
 	 * 1 punto

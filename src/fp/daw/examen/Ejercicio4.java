@@ -10,10 +10,10 @@ public class Ejercicio4 {
 	 * número de secuencias de números repetidos. Ejemplo, si el contenido del
 	 * vector es:
 	 * 
-	 * [9,2,2,3,2,5,7,7,7,4] * * * * *
+	 * [9,2,2,3,2,5,7,7,7,4]
 	 * 
-	 * el método retornará el valor 2 ya que contiene las dos secuencias de
-	 * números repetidos que se han señalado con los asteriscos.
+	 * el método retornará el valor 2 ya que contiene las dos secuencias de números
+	 * repetidos que se han señalado con los asteriscos.
 	 * 
 	 */
 
@@ -36,11 +36,11 @@ public class Ejercicio4 {
 	 * 1 punto
 	 * 
 	 * Escribe en el método main las sentencias necesarias para crear un vector de
-	 * números enteros de un tamaño aleatorio entre 10 y 100 y llenarlo con
-	 * números enteros aleatorios comprendidos entre -100 y 100. A continuación se
-	 * mostrará su contendio por pantalla invocando al método 'mostrarVector'
-	 * definido en el ejercicio 1 y el número de secuencias de números repetidos
-	 * que contiene invocando al método 'numSecuencias'.
+	 * números enteros de un tamaño aleatorio entre 10 y 100 y llenarlo con números
+	 * enteros aleatorios comprendidos entre -100 y 100. A continuación se mostrará
+	 * su contendio por pantalla invocando al método 'mostrarVector' definido en el
+	 * ejercicio 1 y el número de secuencias de números repetidos que contiene
+	 * invocando al método 'numSecuencias'.
 	 * 
 	 */
 

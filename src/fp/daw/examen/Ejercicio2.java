@@ -15,7 +15,7 @@ public class Ejercicio2 {
 	 */
 
 	public static void arr(int[] vector) {
-		/* YA EXISTE UN METODO DE LA CLASE MAIN QUE HACE ESTO */
+		/* YA EXISTE UN METODO EN LA CLASE ARRAYS QUE HACE ESTO [binarySearch();]*/ 
 	}
 
 	/*

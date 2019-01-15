@@ -43,7 +43,7 @@ public class Ejercicio3 {
 	 */
 
 	public static void main(String[] args) {
-		char[][] c = stringToArray2D("VIVA xX-SpinBotMaster69-Xx");
+		char[][] c = stringToArray2D("Hola Buenas");
 		Ejercicio1.mostrarVector(c[0]);
 		System.out.println();
 		Ejercicio1.mostrarVector(c[1]);
